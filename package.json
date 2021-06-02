@@ -1,0 +1,21 @@
+{
+	"name": "sveltekit-materialify",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"start": "svelte-kit start"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "next",
+		"@sveltejs/kit": "next",
+		"postcss": "^8.3.0",
+		"sass": "^1.33.0",
+		"svelte": "^3.34.0",
+		"svelte-preprocess": "^4.7.3"
+	},
+	"type": "module",
+	"dependencies": {
+		"svelte-materialify": "^0.3.9"
+	}
+}
